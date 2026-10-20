@@ -1,0 +1,25 @@
+# Project-specific Python environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration
+.env
+
+# Logs
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Codex working and delivery directories
+work/
+outputs/
